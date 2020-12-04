@@ -1,41 +1,33 @@
-body{
+body {
     background-color: green;
 }
-#first_paragraph
-{
+#first_paragraph {
     background-color: rgba(250,140,189);
 }
-#main_heading{
+#main_heading {
     background-color: rgba(110,110,110);
 }
-#second_heading
-{
+#second_heading {
     background-color: rgba(200, 100, 150 );
 }
-#second_paragraph
-{
+#second_paragraph {
     background-color: rgba(30,130,230);
 }
 ol{
     background-color: greenyellow;
 }
-#first_li
-{
-    color:white;
+#first_li {
+    color: white;
 }
-#second_li
-{
+#second_li {
     color: red;
 }
-#third_li
-{
-    color:orange;
+#third_li {
+    color :orange;
 }
-#fourth_li
-{
-    color:yellow;
+#fourth_li {
+    color: yellow;
 }
-#fifth_li
-{
-    color:black;
+#fifth_li {
+    color: black;
 }
