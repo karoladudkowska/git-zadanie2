@@ -1,27 +1,26 @@
-
-body{
+body {
     background-color: #f5f5dd;
 }
 
-div{
+div {
     height: 150px;
     width: 150px;
     background-color: black;
     margin: 10px auto;
 }
-#firstSquare
-{
-    margin-top:40px;
+
+#firstSquare {
+    margin-top: 40px;
 }
-#secondSquare
-{
+
+#secondSquare {
     background-color: rgba(105, 105, 105);
 }
 
-#thirdSquare{
-    background-color: rgba(135,135,135);
+#thirdSquare {
+    background-color: rgba(135, 135, 135);
 }
-#fourSquare
-{
+
+#fourSquare {
     background-color: rgba(193, 193, 193);
 }
